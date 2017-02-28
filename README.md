@@ -46,7 +46,7 @@ Note that the Start Date and End Date depends on the date Attribute setting in t
 
 Once the cube information has been filled in, the _Get Cube Info (Cube 1)_ button will populate other input options.
 
-# Measures and Attributes
+# Measures and attributes
 For both measures and attributes, there are two sections, the _Available_ list box, and the _to Query_ list box.
 
 The _Available_ list boxes are populated by the _Get Cube Info (Cube 1)_ button and shows available measures, and the available attributes. These can then be moved to the to the _to Query_ list boxes by selecting measures or attributes and clicking the move right button (>>). Likewise, selecting from the _to Query_ list boxes and clicking the move left button (<<) will move the measures or attributes back.
@@ -57,16 +57,16 @@ As most cubes contains an enormous number of members over all, filters are first
 The Search for filters list box is populated with attributes by the _Get Cube Info (Cube 1)_ button. A user can then select a set of attributes and press the _Search by selection_ button to populate the Available filters list box with the attributes’ members.
 Like the Measure and Attribute list boxes, a user can use the move right (>>) and the move left (<<) to select and deselect which filters to include in the settings file.
 
-# Summary Thresholds
+# Summary thresholds
 The summary thresholds determine at which difference or percent difference or more will a record be saved to the summary spreadsheet.
 
-# Other Settings
+# Other settings
 There are only three other settings:
   * Output folder: The location of the output for the resulting results for the console application. The Browse for Output Folder button can be used locate the folder using a system dialog.
   * Date Attribute (Unique Name): This is a combo box populated by the _Get Cube Info (Cube 1)_ button. It is used to denote the date attribute in a cube for the date range settings in the Cube Information section.
   * Excel file per measure group: This is a check box setting whether to split the resulting reports by measure group into separate excel files or not.
 
-# Saving and Loading
+# Saving and loading
 Use the _Save As_ button to save. This opens a system dialog to choose the save location.
 Use the _Load From File_ button to load an existing cube compare settings file. 
 After using either the _Save As_ or _Load From File_ buttons, an additional textbox and button should appear. This textbox contains the file path to the file saved or loaded. The _Run Console Application_ button runs the console application on this file path if the console application is the same directory as the GUI application.
