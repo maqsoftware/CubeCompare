@@ -81,14 +81,14 @@ The table contains the following:
 
 |Column Name	|Definition|
 |-------------|----------|
-|Report	      |Which report (spreadsheet name) the record originated from.|
-|Measure	|The name of the measure queried.|
-|Dimension - Attribute		|By which attribute was the measure sliced.|
-|Member (row labels)	|The member (of the Dimension – Attribute) for the record.|
-|[Cube 1]	|The result of the query for [Cube 1].|
-|[Cube 2]	|The result of the query for [Cube 2].|
+|Report	      |Which report (spreadsheet name) the record originated from|
+|Measure	|The name of the measure queried|
+|Dimension - Attribute		|By which attribute was the measure sliced|
+|Member (row labels)	|The member (of the Dimension – Attribute) for the record|
+|[Cube 1]	|The result of the query for [Cube 1]|
+|[Cube 2]	|The result of the query for [Cube 2]|
 |Difference	|The difference from cube 1 to cube 2. (Cube 2 – Cube 1)|
-|Percent Difference	|The percent difference from cube 1 to cube 2. (Cube 2 – Cube 1) /2.|
+|Percent Difference	|The percent difference from cube 1 to cube 2. (Cube 2 – Cube 1) /2|
 
 # Understanding the detailed reports
 The individual reports are spreadsheets containing the results for the individual queries ran on both cubes.
@@ -103,7 +103,7 @@ Each report spreadsheet also contains a table detailing the results of the query
 |Column Name	|Definition|
 |-------------|----------|
 |[Attribute]	|The members of the [Attribute]|
-|[Cube 1]	|The result of the query for [Cube 1].|
-|[Cube 2]	|The result of the query for [Cube 2].|
+|[Cube 1]	|The result of the query for [Cube 1]|
+|[Cube 2]	|The result of the query for [Cube 2]|
 |Difference	|The difference from cube 1 to cube 2. (Cube 2 – Cube 1)|
-|Percent Difference	|The percent difference from cube 1 to cube 2. (Cube 2 – Cube 1) /2.|
+|Percent Difference	|The percent difference from cube 1 to cube 2. (Cube 2 – Cube 1) /2|
