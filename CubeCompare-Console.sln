@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeCompare-Console", "CubeCompare-Console\CubeCompare-Console.csproj", "{E5D0628F-5487-44BC-9F36-65913A5C5D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeCompare-GUI", "CubeCompare-GUI\CubeCompare-GUI.csproj", "{57977873-9A30-4CE4-812D-F421E98D9BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Debug|x64.ActiveCfg = Debug|x64
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Debug|x64.Build.0 = Debug|x64
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Release|x64.ActiveCfg = Release|x64
+		{E5D0628F-5487-44BC-9F36-65913A5C5D85}.Release|x64.Build.0 = Release|x64
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Debug|x64.Build.0 = Debug|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Release|x64.ActiveCfg = Release|Any CPU
+		{57977873-9A30-4CE4-812D-F421E98D9BE6}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
